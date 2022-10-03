@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav {
+    display: flex;
+    padding: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon-logo{
+    display: inline-block;
+    margin-left: 40px;
+}
+
+
+#btn-3{
+    background: #ECE6FF;
+    color: #794CFF;
+    width: 169px;
+    height: 48px;
+    border: 0;
+    margin-left: 40px;
+}
+
+.links a {
+    margin: 0 20px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+}
+
+#btn-1 {
+    background-color: #81C43B;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+#btn-2 {
+    position: relative;
+    left: -20px;
+    background-color: #F2F9EB;
+    border: none;
+    border-radius: 0 50px 50px 0;
+    padding: 10px 20px;
+    z-index: -2;
+    padding-left: 40px;
+}
+.text{
+    width: 760px;
+    height: 144px;
+    margin-top: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
+    color: #35414B;
+   margin-left: 320px;
+}
+.Works{
+width: 535px;
+height: 48px;
+margin-top: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+margin-left: 467px;
+text-align: center;
+color: #4E5A65;
+}
+.reebook{
+    width: 196px;
+    height: 16px;
+    left: 525px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120px;
+    margin-left: 591px;
+    color: #97A5B5;
+}
+input{
+    margin-top: 24px;
+    width:319px ;
+    height:52px ;
+    margin-left: 480px;
+    background-color: #ffffff;
+    border: 1px solid #E1E5Ea;
+    border-radius: 4px 0 0 4px;
+}
+input[placeholder]{
+    padding: 25px;
+}
+#man{
+  position: relative;
+    box-sizing: border-box;
+width: 164px;
+height: 52px;
+left: -10px;
+top: 0px;
+background: #794CFF;
+border: 1px solid #794CFF;
+border-radius: 0px 4px 4px 0px;
+color: #ffffff;
+z-index: -2px;
+}
+.woomen{
+ display: inline-block;
+ margin-left: 220px;
+}
+.sun{
+    width: 397px;
+    height: 16px;
+    margin-left: 522px;
+    margin-top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #4E5A65;
+    
+
+}
+.kl{
+    display: flex;
+    justify-content: space-around;
+    width: 73%;
+    margin: auto;
+    margin-top: 140px;
+}
+
+div.comiks{
+    Width:1505px;
+Height:640px;
+Top:1514px;
+margin-left:0px;
+margin-top: 65px;
+background: #FBFAFE;
+border: 1px dashed #F0EBFA;
+}
+
+.superman{
+    width: 657px;
+    height: 518px;
+    margin-top: 61px;
+    margin-left: 200px;
+}
+
+.black{
+    width: 372px;
+    height: 128px;
+    margin-top: 1591px; 
+    margin-left: 350px;
+}
+
+.sv{
+box-sizing: border-box;
+width: 372px;
+height: 128px;
+margin-top: 40px;
+margin-left: 200px;
+background: #F6F3FC;
+border-radius: 0px 8px 8px 0px;
+margin: auto;
+}
+.vs{
+    box-sizing: border-box;
+    width: 308px;
+height: 48px;
+margin-left: 200px;
+margin-top: 40px;
+font-size: 16px;
+line-height: 24px;
+color: #4E5A65;
+border-radius: 0 8px 8px 0;
+
+}
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+   
